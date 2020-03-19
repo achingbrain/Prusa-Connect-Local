@@ -42,7 +42,7 @@
   "prop.sla-rmn-mt": "Remaining resin",
   "prop.speed": "Printing Speed",
   "prop.st-idle": "Idle",
-  "prop.st-priting": "Priting",
+  "prop.st-printing": "Printing",
   "prop.temp-amb": "Ambient temperature",
   "prop.temp-bed": "Heatbed",
   "prop.temp-cpu": "CPU temperature",

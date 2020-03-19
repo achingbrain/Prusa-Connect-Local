@@ -31,7 +31,7 @@ const Home: preact.FunctionalComponent<homeProps> = ({
               {
                 <span class="title is-size-3 is-size-4-desktop prusa-text-orange">
                   {isPrinting(printer_state)
-                    ? t("prop.st-priting")
+                    ? t("prop.st-printing")
                     : t("prop.st-idle")}
                 </span>
               }
